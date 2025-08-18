@@ -1,6 +1,7 @@
 # My first Project yayyyyy hurray
 
-Valuable information for the users.
+This Valuable information will help everyone.
+
 
 
 
