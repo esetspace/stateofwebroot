@@ -1,4 +1,5 @@
-# Documentation to install vipre using product key already purchased for new users.
+# Webroot Download Already Purchased? Complete Guide to Install, Activate, and Update via Best Buy or Geek Squad
 
-My first project, i am so happy. Yippie
+Valuable information for the users.
+
 
