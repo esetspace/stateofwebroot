@@ -1,6 +1,7 @@
 # My first project, its was amazing
 
-This is specifically made easy for new users.
+This project is my first demo project that will be helpful.
+
 
 
 
