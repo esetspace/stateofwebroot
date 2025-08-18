@@ -1,6 +1,8 @@
-# My first project, its was amazing
+# My first project, that i will be using for the main purpose.
 
-This project is my first demo project that will be helpful.
+
+I am sure it will be easier for the reader who are actively interested. :D
+
 
 
 
