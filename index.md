@@ -1,6 +1,7 @@
-# Hey Siri! How to Easily Download Already Purchased Webroot? Give a Complete Guide to Install and Update As Well
+# Hey Siri! How to Easily Download Already Purchased Webroot? Explain the Documentation
 
-This Amazing information will help every visitor on this page.
+This is specifically made easy for new users.
+
 
 
 
